@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="true" />
+    <profile name="sbt 1" modules="phishing-filter,phishing-filter.main,phishing-filter.test,playproject_668,playproject_668.main,playproject_668.test" />
+  </component>
+</project>
